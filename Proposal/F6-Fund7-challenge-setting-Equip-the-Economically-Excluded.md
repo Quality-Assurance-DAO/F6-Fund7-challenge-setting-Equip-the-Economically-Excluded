@@ -4,11 +4,11 @@ F6: Fund7 challenge setting
 
 ## Challenge Title
 
-Equip Socially Excluded Communities
+Equip the Economically Excluded
 
 ## Challenge question :
 
-How can Cardano provide the resources to enable socially excluded and marginalized people to run their own projects ?
+How can Cardano provide the resources to enable economically excluded people to run their own projects ?
 
 ## Why is it important?
 
@@ -16,13 +16,13 @@ To "create possibility for the many, as well as the few", Cardano can equip the 
 
 ## How does success look like?
 
-Autonomous solutions built by socially excluded and marginalized communities.
+Autonomous solutions built by economically disadvantaged communities.
 
 ## Key Metrics to measure
 
 Sustainable community projects.
 
-Autonomous use of Cardano technology to transform the economic and social conditions of excluded and marginalized communities.
+Autonomous use of Cardano technology to transform the economic and social conditions of economically disadvantaged communities.
 
 Successful transfer of privileged knowledge to excluded communities.
 
