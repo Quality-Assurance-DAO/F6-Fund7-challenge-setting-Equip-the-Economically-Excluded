@@ -16,7 +16,7 @@ To "create possibility for the many, as well as the few", Cardano can equip the 
 
 ## How does success look like?
 
-Autonomous solutions built by economically disadvantaged communities.
+Autonomous solutions led by economically disadvantaged communities.
 
 ## Key Metrics to measure
 
