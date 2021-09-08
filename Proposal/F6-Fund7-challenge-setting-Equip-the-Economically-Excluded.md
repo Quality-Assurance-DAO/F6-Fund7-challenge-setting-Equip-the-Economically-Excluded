@@ -20,7 +20,7 @@ Autonomous solutions led by economically disadvantaged communities.
 
 ## Key Metrics to measure
 
-Sustainable community projects.
+Sustainable community projects with economically excluded people in leadership roles.
 
 Autonomous use of Cardano technology to transform the economic and social conditions of economically disadvantaged communities.
 
@@ -30,11 +30,9 @@ Co-produced projects that build the capacity of economically excluded communitie
 
 ## Challenge brief
 
-### In Draft
-
 Rather than provide a prescriptive picklist of Socially Excluded Communities, I think it is important that proposals submitted under this challenge include an explanation of how their targeted community is economically excluded and marginalized.
 
-In my UK context, economic exclusion and marginalisation typically applies to the long-term unemployed; those who are disabled; homeless people; ex-offenders; refugees and asylum-seekers. But in other countries this context may change.
+In the UK context, economic exclusion and marginalisation typically applies to the long-term unemployed; those who are disabled; homeless people; ex-offenders; refugees and asylum-seekers. But in other countries this context may change.
 
 ### Changelog
 
