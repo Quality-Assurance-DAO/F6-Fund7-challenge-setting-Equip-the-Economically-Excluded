@@ -26,6 +26,8 @@ Autonomous use of Cardano technology to transform the economic and social condit
 
 Successful transfer of privileged knowledge to excluded communities.
 
+Co-produced projects that build the capacity of economically excluded communities and prepare them to make proposals.
+
 ## Challenge brief
 
 ### In Draft
