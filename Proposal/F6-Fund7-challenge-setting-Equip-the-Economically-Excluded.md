@@ -28,7 +28,16 @@ Successful transfer of privileged knowledge to excluded communities.
 
 ## Challenge brief
 
-In Draft
+### In Draft
+
+Rather than provide a prescriptive picklist of Socially Excluded Communities, I think it is important that proposals submitted under this challenge include an explanation of how their targeted community is economically excluded and marginalized.
+
+In my UK context, economic exclusion and marginalisation typically applies to the long-term unemployed; those who are disabled; homeless people; ex-offenders; refugees and asylum-seekers. But in other countries this context may change.
+
+### Changelog
+
+https://github.com/Quality-Assurance-DAO/F6-Fund7-challenge-setting-Equip-the-Economically-Excluded
+
 
 ## Requested funds in USD 
 
